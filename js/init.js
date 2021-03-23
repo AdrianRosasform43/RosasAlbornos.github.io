@@ -1,12 +1,10 @@
-/*  Initializa Firebase con la configuración del proyecto. Revisa la
- * configuración en tu servidor de Firebase.  */
-// @ts-ignore
-apiKey: "AIzaSyBWfZD9D8mCKEhKlyUsX1xT2CsAx37yzqE",
-    authDomain: "autentificar43raai-e7c6f.firebaseapp.com",
-    projectId: "autentificar43raai-e7c6f",
-    storageBucket: "autentificar43raai-e7c6f.appspot.com",
-    messagingSenderId: "693109106214",
-    appId: "1:693109106214:web:31548956a258bb7d46a8e7",
-    measurementId: "G-R3C3SNF6CB"
+firebase.initializeApp({
+    apiKey: "AIzaSyDCU-cE-YfSIUV_QNuDsGM32ZlKyX0PV_s",
+    authDomain: "autentifica43raai-16ad3.firebaseapp.com",
+    projectId: "autentifica43raai-16ad3",
+    storageBucket: "autentifica43raai-16ad3.appspot.com",
+    messagingSenderId: "2690088240",
+    appId: "1:2690088240:web:47e97efaf852d435c7dcf5",
+    measurementId: "G-QX14NTT3KN"
     });
 
